@@ -4,8 +4,8 @@
 
 Users can enter a **title, custom prompt, aspect ratio, visual style, and color scheme**, and Thumbzy generates a personalized thumbnail using **Hugging Face FLUX.1 Schnell**.
 
-🔗 **Live Demo:** Add your deployed URL here  
-🔗 **GitHub:** https://github.com/pragatikavra28/Thumbzy
+🔗 **Live Demo:**  deployed URL here  
+🔗 **GitHub:** https://github.com/shreyaajainn4/Thumbzy
 
 ---
 
@@ -401,14 +401,13 @@ Potential future enhancements include:
 
 ## 👩‍💻 Author
 
-**Pragati Kavra**
+**Shreya Jain**
 
 B.Tech Computer Science & Engineering
 
 ### Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/pragati-kavra-018960279
-- 💻 GitHub: https://github.com/pragatikavra28
+- 💻 GitHub: https://github.com/shreyaajainn4
 
 ---
 
