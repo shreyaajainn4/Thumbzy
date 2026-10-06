@@ -95,7 +95,12 @@ console.log('Cloudinary config check:', {
 const app = express();
  
 app.use(cors({
-    origin: ['http://localhost:5173', 'http://localhost:3000','https://thumblify-client-nine.vercel.app'],
+    origin: [
+        'http://localhost:5173',
+        'http://localhost:3000',
+        'https://client-git-main-shreyaajainn4.vercel.app',
+        process.env.CLIENT_URL as string,
+    ].filter(Boolean),
     credentials: true
 }))
  
