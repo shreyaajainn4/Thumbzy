@@ -324,7 +324,7 @@ RESEND_API_KEY=your_resend_api_key
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pragatikavra28/Thumbzy.git
+git clone https://github.com/shreyaajainn4/Thumbzy.git
 cd Thumbzy
 ```
 
