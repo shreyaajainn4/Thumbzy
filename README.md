@@ -4,7 +4,7 @@
 
 Users can enter a **title, custom prompt, aspect ratio, visual style, and color scheme**, and Thumbzy generates a personalized thumbnail using **Hugging Face FLUX.1 Schnell**.
 
-🔗 **Live Demo:**  https://thumbzy-b33nbqdzg-shreyaajainn4.vercel.app/
+🔗 **Live Demo:**  https://client-ten-sand-81.vercel.app/
 
 🔗 **GitHub:** https://github.com/shreyaajainn4/Thumbzy
 
